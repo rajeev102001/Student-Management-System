@@ -21,7 +21,7 @@ The Student Management System is a Python-based application designed to facilita
 1. Install Python on your system: [Python Installation Guide](https://www.python.org/downloads/)
 2. Install required packages: `pip install mysql-connector-python`
 3. Set up a MySQL database and update database credentials in the code.
-4. Run the application: `python student_management_system.py`
+4. Run the application: `python StudentDesign.py`
 
 ## Usage
 
@@ -32,7 +32,7 @@ The Student Management System is a Python-based application designed to facilita
 
 ## Screenshots
 
-[Add screenshots of your application's UI here]
+<img src='Student_Dashboard.png'>
 
 ## Contributing
 
